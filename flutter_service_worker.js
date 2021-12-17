@@ -59,7 +59,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "index.html": "00fa4d0e5c5956ceb97755d9981ce3d0",
 "/": "00fa4d0e5c5956ceb97755d9981ce3d0",
-"main.dart.js": "62ddd417d962656e9d826e93d854c9e5",
+"main.dart.js": "0fddbb386e11cdcde1eddd238a7af131",
 "version.json": "0bb5914fa58b0eac2a4ce977d8e3d476"
 };
 
